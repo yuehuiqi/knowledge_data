@@ -1,0 +1,347 @@
+## 1. Normal liver in situ, gross {#item-1}
+![](../../images/hepatic_6db46220.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This is an in-situ photograph of the chest and abdominal contents. As can be seen, the liver is the largest parenchymal organ, lying just below the diaphragm. The right lobe (at the left in the photograph) is larger than the left lobe. The falciform ligament is the rough dividing line between the two lobes.
+## 2. Normal liver, external, gross {#item-2}
+![](../../images/hepatic_e0275ff0.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This is the external surface of a normal liver. The color is brown and the surface is smooth. A normal liver is about 1200 to 1600 grams.
+On physical examination, what is the normal range of the liver span on percussion?A0 to 6 cmB6 to 12 cmC12 to 18 cmD18 to 24 cm
+A0 to 6 cmB6 to 12 cmC12 to 18 cmD18 to 24 cm
+B6 to 12 cmC12 to 18 cmD18 to 24 cm
+C12 to 18 cmD18 to 24 cm
+## 3. Normal liver, cut surface, gross {#item-3}
+![](../../images/hepatic_2be11449.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Click on portal vein, hepatic artery, hepatic vein, and bile ducts in the liver below:
+The cut surface of a normal liver has a brown color. Near the hilum here, note the portal vein carrying blood to the liver, which branches at center left, with accompanying hepatic artery and bile ducts. At the lower right is a branch of hepatic vein draining blood from the liver to the inferior vena cava.
+## 4. Normal liver zones, microscopic {#item-4}
+![](../../images/hepatic_dbbe247b.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Click on the portal triad and then on the central vein in the section of liver below:
+Liver is divided histologically into lobules. The center of the lobule is the central vein. At the periphery of the lobule are portal triads. Functionally, the liver can be divided into three zones, based upon oxygen supply. Zone 1 encircles the portal tracts where the oxygenated blood from hepatic arteries enters. Zone 3 is located around central veins, where oxygenation is poor. Zone 2 is located in between.
+## 5. Fatty metamorphosis of liver, gross {#item-5}
+![](../../images/hepatic_6752a940.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This liver is slightly enlarged and has a pale yellow appearance, seen both on the capsule and cut surface. This uniform change is consistent with fatty metamorphosis (fatty change).
+Which of the following is now the most common cause for hepatic steatosis?ACeliac diseaseBGalactosemiaCMetabolic syndromeDViral hepatitis C
+ACeliac diseaseBGalactosemiaCMetabolic syndromeDViral hepatitis C
+BGalactosemiaCMetabolic syndromeDViral hepatitis C
+CMetabolic syndromeDViral hepatitis C
+DViral hepatitis C
+## 6. Fatty metamorphosis of liver, gross {#item-6}
+![](../../images/hepatic_0f31a3db.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This is a larger liver with more pronounced steatosis (fatty change). Such fatty change is most often "nutritional" in etiology when diet is poor in protein and/or when fatty acid metabolism is deranged and/or when liver cell function is impaired.Metabolic dysfunction–associated steatotic liver disease (MASLD)previously termed non-alcoholic fatty liver (NAFL), is frequent due to metabolic syndrome, obesity, and diabetes mellitus (all of which are related).Chronic alcohol use may lead to hepatic steatosis. The carbohydrate deficient transferrin (CDT) test measures isoforms of iron transport protein transferrin. Consumption of ethanol more than 50 to 80 g/day for 2-3 weeks may increase serum CDT. The CDT may be higher in chronic heavy drinkers than light social drinkers.Steatosis is reversible over weeks to months. Reduce alcohol consumption. Adopt a diet and exercise program to lose weight (a 10% weight reduction helps to prevent progression of steatosis to steatohepatitis and to cirrhosis).
+This is a larger liver with more pronounced steatosis (fatty change). Such fatty change is most often "nutritional" in etiology when diet is poor in protein and/or when fatty acid metabolism is deranged and/or when liver cell function is impaired.Metabolic dysfunction–associated steatotic liver disease (MASLD)previously termed non-alcoholic fatty liver (NAFL), is frequent due to metabolic syndrome, obesity, and diabetes mellitus (all of which are related).
+Chronic alcohol use may lead to hepatic steatosis. The carbohydrate deficient transferrin (CDT) test measures isoforms of iron transport protein transferrin. Consumption of ethanol more than 50 to 80 g/day for 2-3 weeks may increase serum CDT. The CDT may be higher in chronic heavy drinkers than light social drinkers.
+Steatosis is reversible over weeks to months. Reduce alcohol consumption. Adopt a diet and exercise program to lose weight (a 10% weight reduction helps to prevent progression of steatosis to steatohepatitis and to cirrhosis).
+## 7. Fatty metamorphosis of liver, microscopic {#item-7}
+![](../../images/hepatic_8fa5a1c8.jpg)
+![](../../images/hepatic_8a8bfa58.gif)
+
+![](../../images/hepatic_d5033905.gif)
+Here are largelipid vacuoleswithin hepatocytes in a case of macrovesicular steatosis (fatty change). The lipid accumulates when lipoprotein transport is disrupted and/or when fatty acids accumulate. Alcohol (ethanol), for example, is a hepatotoxin that interferes with mitochondrial and microsomal function in hepatocytes, leading to an accumulation of lipid.The definitive diagnosis of metabolic dysfunction–associated steatotic liver disease (MASLD), previously termed non-alcoholic fatty liver (NAFL), is liver biopsy, but this is uncommonly done because a good history and physical examination will provide clues in most cases. An overweight person (even a child) with a mild to moderately elevated serum alanine transferase (ALT) is suggestive, in the absence of drug usage or causes for hepatitis. Right upper quadrant pain may be present from liver enlargement. Imaging studies include ultrasound examination, with diffusely increased echogenicity, or CT scan showing diffusely decreased attenuation, are supportive evidence for MASLD.
+Here are largelipid vacuoleswithin hepatocytes in a case of macrovesicular steatosis (fatty change). The lipid accumulates when lipoprotein transport is disrupted and/or when fatty acids accumulate. Alcohol (ethanol), for example, is a hepatotoxin that interferes with mitochondrial and microsomal function in hepatocytes, leading to an accumulation of lipid.
+The definitive diagnosis of metabolic dysfunction–associated steatotic liver disease (MASLD), previously termed non-alcoholic fatty liver (NAFL), is liver biopsy, but this is uncommonly done because a good history and physical examination will provide clues in most cases. An overweight person (even a child) with a mild to moderately elevated serum alanine transferase (ALT) is suggestive, in the absence of drug usage or causes for hepatitis. Right upper quadrant pain may be present from liver enlargement. Imaging studies include ultrasound examination, with diffusely increased echogenicity, or CT scan showing diffusely decreased attenuation, are supportive evidence for MASLD.
+## 8. Fatty metamorphosis of liver, microscopic {#item-8}
+![](../../images/hepatic_c4ca41ff.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This is the histologic appearance of hepatic macrovesicular steatosis (fatty change). The lipid accumulates in the hepatocytes as vacuoles. These vacuoles have a clear appearance with H&E staining. The most common cause of fatty change in developed nations is termed metabolic dysfunction–associated steatotic liver disease (MASLD), previously termed non-alcoholic fatty liver (NAFL) disease (diabetes mellitus, obesity, metabolic syndrome). Poor socioeconomic status contributes to kwashiorkor in children. Diseases causing severe gastrointestinal malabsorption are additional causes.Polymorphisms in thepatatin-like phospholipase domain containing 3 (PNPLA3)gene encoding for a triacylglycerol lipase involved in lipid regulation may explain greater propensity to develop steatosis in some populations.
+This is the histologic appearance of hepatic macrovesicular steatosis (fatty change). The lipid accumulates in the hepatocytes as vacuoles. These vacuoles have a clear appearance with H&E staining. The most common cause of fatty change in developed nations is termed metabolic dysfunction–associated steatotic liver disease (MASLD), previously termed non-alcoholic fatty liver (NAFL) disease (diabetes mellitus, obesity, metabolic syndrome). Poor socioeconomic status contributes to kwashiorkor in children. Diseases causing severe gastrointestinal malabsorption are additional causes.
+Polymorphisms in thepatatin-like phospholipase domain containing 3 (PNPLA3)gene encoding for a triacylglycerol lipase involved in lipid regulation may explain greater propensity to develop steatosis in some populations.
+## 9. Macronodular cirrhosis of liver, gross {#item-9}
+![](../../images/hepatic_ebb67e88.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Ongoing liver damage with liver cell necrosis followed by fibrosis and hepatocyte regeneration results in cirrhosis. This produces a nodular, firm liver. The nodules seen here are larger than 3 mm and, hence, this is an example of "macronodular" cirrhosis.
+## 10. Macronodular cirrhosis of liver, gross {#item-10}
+![](../../images/hepatic_23ea2186.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Here is another example of macronodular cirrhosis. Viral hepatitis (B or C) is the most common cause for macronodular cirrhosis. Wilson's disease and alpha-1-antitrypsin deficiency also can produce a macronodular cirrhosis.
+## 11. Micronodular cirrhosis of liver, gross [MRI] {#item-11}
+![](../../images/hepatic_4e0b4bf4.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This is an example of a micronodular cirrhosis. The regenerative nodules are quite small, averaging less than 3 mm in size. The most common cause for this is chronic alcoholism. The process of cirrhosis develops over many years.
+## 12. Micronodular cirrhosis and fatty change of liver, gross [CT] {#item-12}
+![](../../images/hepatic_a9cc405f.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Here is another example of micronodular cirrhosis. Note that the liver also has a yellowish hue, indicating that fatty change (also caused by alcoholism) is present.
+Question: What are transaminase values with alcoholic liver disease?
+AnswerThe aspartate aminotransferase (AST) is typically elevated more than the alanine aminotransferase (ALT) with alcohol-related liver disease..
+The aspartate aminotransferase (AST) is typically elevated more than the alanine aminotransferase (ALT) with alcohol-related liver disease..
+## 13. Micronodular cirrhosis and fatty change of liver, gross {#item-13}
+![](../../images/hepatic_bc63b0f3.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+A close-up view of a micronodular cirrhosis in a liver with fatty change demonstrates the small, yellow nodules. Micronodular cirrhosis may also be seen with Wilson's disease, primary biliary cholangitis, and hemochromatosis.
+Which of the following cells plays the greatest role in fibrogenesis of the liver?ABile duct epithelial cellBEndothelial cellCHepatocyteDIto cellEKupffer cell
+ABile duct epithelial cellBEndothelial cellCHepatocyteDIto cellEKupffer cell
+BEndothelial cellCHepatocyteDIto cellEKupffer cell
+CHepatocyteDIto cellEKupffer cell
+DIto cellEKupffer cell
+## 14. Cirrhosis of liver, microscopic {#item-14}
+![](../../images/hepatic_9d62c61f.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Microscopically with cirrhosis, the regenerative nodules of hepatocytes are surrounded by fibrous connective tissue that bridges between portal tracts. Within this collagenous tissue are scattered lymphocytes as well as a proliferation of bile ducts.
+## 15. Micronodular cirrhosis and fatty change of liver, microscopic {#item-15}
+![](../../images/hepatic_419d2569.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Micronodular cirrhosis is seen along with moderate fatty change (macrovesicular steatosis). Note theregenerative nodulesurrounded byfibrous connective tissueextending between portal regions.
+## 16. Mallory's hyaline, liver, microscopic {#item-16}
+![](../../images/hepatic_0625d0bb.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+At high magnification can be seenglobular red hyalinematerial within hepatocytes. This is Mallory's hyaline, also known as "alcoholic" hyaline because it is most often seen in conjunction with chronic alcoholism. The globules are aggregates of intermediate filaments in the cytoplasm resulting from hepatocyte injury.
+## 17. Alcoholic hepatitis, microscopic {#item-17}
+![](../../images/hepatic_caf8bb63.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Mallory's hyaline is seen here, but there are also neutrophils, necrosis of hepatocytes, collagen deposition, and fatty change. These findings are typical for acute alcoholic hepatitis. Such inflammation can occur in a person with a history of alcoholism who goes on a drinking "binge" and consumes large quantities of alcohol over a short time.
+## 18. Caput medusae of skin with portal hypertension, gross {#item-18}
+![](../../images/hepatic_9799a56e.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Portal hypertension results from the abnormal blood flow pattern in liver created by cirrhosis. The increased pressure is transmitted to collateral venous channels. Sometimes these venous collaterals are dilated. Seen here is "caput medusae" which consists of dilated veins seen on the abdomen of a patient with cirrhosis of the liver.
+## 19. Esophageal varices with portal hypertension, gross {#item-19}
+![](../../images/hepatic_c3c274c3.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+A much more serious problem produced by portal hypertension results whensubmucosal veinsin the esophagus become dilated. These are known as esophageal varices. Varices are seen here in the lower esophagus as linear blue dilated veins. There ishemorrhage.around one of them. Such varices are easily eroded, leading to massive gastrointestinal hemorrhage.
+## 20. Splenomegaly with portal hypertension, gross {#item-20}
+![](../../images/hepatic_ab0f477b.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+One of the most common findings with portal hypertension is splenomegaly, as seen here. The spleen is enlarged from the normal 300 grams or less to between 500 and 1000 gm. Another finding here is the irregular pale tan plaques of collagen over the purple capsule known as "sugar icing" or "hyaline perisplenitis" which follows the splenomegaly and/or multiple episodes of peritonitis that are a common accompaniment to cirrhosis of the liver.
+## 21. Hemosiderosis of liver, microscopic {#item-21}
+![](../../images/hepatic_a7559766.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+The hepatocytes and Kupffer cells here are full of granular brown deposits of hemosiderin from accumulation of excess iron in the liver. The term "hemosiderosis" is used to denote a relatively benign accumulation of iron. The term "hemochromatosis" is used when organ dysfunction occurs. The iron accumulation may lead to a micronodular cirrhosis (so called "pigment" cirrhosis).
+## 22. Hemosiderosis of liver, Prussian blue stain, microscopic {#item-22}
+![](../../images/hepatic_95451698.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+A Prussian blue iron stain demonstrates the blue granules of hemosiderin in hepatocytes and Kupffer cells. Hemochromatosis can be primary (the cause is probably an autosomal recessive genetic disease) or secondary (excess iron intake or absorption, liver disease, or numerous transfusions). Hemochromatosis leads to bronze pigmentation of skin, diabetes mellitus (from pancreatic involvement), and cardiac arrhythmias (from myocardial involvement).
+## 23. Hemochromatosis of liver, gross {#item-23}
+![](../../images/hepatic_b251c310.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+The dark brown color of the liver, as well as the pancreas (bottom center) and lymph nodes (bottom right) on sectioning is due to extensive iron deposition in a middle-aged man with hereditary hemochromatosis (HHC). HHC results from a mutation involving the hemochromatosis gene (HFE) that leads to increased iron absorption from the gut. The prevalence is between 1:200 and 1:500 persons in the U.S. About 1 in 10 persons of northern European ancestry carries the abnormal recessive HFE gene, and most of these are the C282Y mutation.
+## 24. Hemochromatosis of liver, low power microscopic {#item-24}
+![](../../images/hepatic_e463c34a.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+The Prussian blue iron stain reveals extensive hepatic hemosiderin deposition microscopically in this case of hereditary hemochromatosis (HH). Note that there is also cirrhosis. Excessive iron deposition in persons with HH can affect many organs, but heart (congestive failure), pancreas (diabetes mellitus), liver (cirrhosis and hepatic failure), and joints (arthritis) are the most severely affected.
+## 25. Lipochrome (lipofuscin) pigment in liver, microscopic {#item-25}
+![](../../images/hepatic_a3187fe5.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+The pale golden brown finely granular pigment seen here in nearly all hepatocytes is lipchrome (lipofuscin). One such deposit within a hepatocyte is marked by the arrow. This is a "wear and tear" pigment from the accumulation of autophagolysosomes over time. This pigment is of no real pathologic importance.
+## 26. Cholestasis of liver, microscopic {#item-26}
+![](../../images/hepatic_4a771043.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+The yellowish-green accumulations of pigment seen here are bile. Most often this is due to extrahepatic biliary tract obstruction. However, bile may also accumulate in liver (called cholestasis) when there is hepatocyte injury.
+## 27. Intrahepatic lithiasis, liver, gross {#item-27}
+![](../../images/hepatic_9e00b89b.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Here is an example of intrahepatic obstruction with a smallstonein an intrahepatic bile duct. This could produce a localized cholestasis, but the serum bilirubin would not be increased, because there is plenty of non-obstructed liver to clear the bilirubin from the blood. However, the serum alkaline phosphatase is increased with biliary tract obstruction at any level.
+## 28. Hepatic adenoma, liver, gross {#item-28}
+![](../../images/hepatic_da738654.jpg)
+![](../../images/hepatic_d80fdc01.gif)
+
+![](../../images/hepatic_d5033905.gif)
+Shown here is a well-circumscribed neoplasm that is arising within the liver. This is anhepatic adenoma. The smooth border and circumscribed nature of this mass suggest that it is benign. Howver, adenomas are much less common than carcinomas in the liver.
+## 29. Hepatic adenoma, cut surface, liver, gross {#item-29}
+![](../../images/hepatic_3fb31686.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+The cut surface of the liver reveals the hepatic adenoma. Note how well circumscribed it is. The remaining liver is a pale yellow brown because of fatty change from chronic alcoholism.
+Name a risk factor for development of this lesion
+## 30. Hepatic adenoma, liver, microscopic {#item-30}
+![](../../images/hepatic_4cb75be4.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Normal liver tissue with a portal tract is seen on the left. The hepatic adenoma is on the right and is composed of cells that closely resemble normal hepatocytes, but the neoplastic liver tissue is disorganized hepatocyte cords and does not contain a normal lobular architecture.
+## 31. Hepatocellular carcinoma, liver, gross {#item-31}
+![](../../images/hepatic_b3fbc552.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Here is an hepatocellular carcinoma. Such liver cancers arise in the setting of cirrhosis. Worldwide, viral hepatitis is the most common cause, but in the U.S., chronic alcoholism is the most common cause. The neoplasm is large and bulky and has a greenish cast because it contains bile. To the right of the main mass are smaller satellite nodules.
+## 32. Hepatocellular carcinoma with satellite nodules, liver, gross {#item-32}
+![](../../images/hepatic_916573d8.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+The satellite nodules of this hepatocellular carcinoma represent either intrahepatic spread of the tumor or multicentric origin of the tumor.
+What is the most likely tumor marker detected in the blood of a patient with this lesion
+## 33. Hepatocellular carcinoma, liver, gross {#item-33}
+![](../../images/hepatic_4d63fead.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Here is another hepatocellular carcinoma with a greenish yellow hue. One clue to the presence of such a neoplasm is an elevated serum alpha-fetoprotein. Such masses may also focally obstruct the biliary tract and lead to an elevated alkaline phosphatase.
+## 34. Hepatocellular carcinoma, liver, microscopic {#item-34}
+![](../../images/hepatic_d402630e.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Themalignant cellsof this hepatocellular carcinoma (seen on the right) are well differentiated and interdigitate withnormal hepatocytesarranged in regular cords (seen at the left).Deaths from liver cancer are increasing due to increasing metabolic dysfunction-associated steatotic liver disease (MASLD), cost of drugs to treat hepatitis C virus (HCV), the high stage of the cancer at detection, and the lack of effective chemotherapy.
+Deaths from liver cancer are increasing due to increasing metabolic dysfunction-associated steatotic liver disease (MASLD), cost of drugs to treat hepatitis C virus (HCV), the high stage of the cancer at detection, and the lack of effective chemotherapy.
+## 35. Hepatocellular carcinoma, liver, microscopic {#item-35}
+![](../../images/hepatic_1488bb54.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Note that this hepatocellular carcinoma is composed of liver cords that are much wider than the normal liver plate that is two cells thick. There is no discernable normal lobular architecture, though vascular structures are present.
+## 36. Cholangiocarcinoma, liver, microscopic {#item-36}
+![](../../images/hepatic_2e7b6d7c.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+The carcinoma at the left has a glandular appearance that is most consistent with a cholangiocarcinoma. A liver cancer may have both hepatocellular as well as cholangiolar differentiation. Cholangiocarcinomas do not make bile, but the cells do make mucin, and they can be almost impossible to distinguish from metastatic adenocarcinoma on biopsy or fine needle aspirate.
+## 37. Metastatic adenocarcinoma, liver, gross [CT] {#item-37}
+![](../../images/hepatic_5e790210.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Note the numerous mass lesions that are of variable size. Some of the larger ones demonstrate central necrosis. The masses are metastases to the liver. The obstruction from such masses generally elevates alkaline phosphatase, but not all bile ducts are obstructed, so hyperbilirubinemia is typically not present. Also, the transaminases are usually not greatly elevated.
+## 38. Metastatic adenocarcinoma, liver, gross [CT] {#item-38}
+![](../../images/hepatic_505c4477.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Here are liver metastases from an adenocarcinoma primary in the colon, one of the most common primary sites for metastatic adenocarcinoma to the liver.
+## 39. Metastatic adenocarcinoma, liver, microscopic {#item-39}
+![](../../images/hepatic_574b5258.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Microscopically, metastatic infiltrating ductal carcinoma from breast is seen on the right, with normal liver parenchyma on the left.
+## 40. Viral hepatitis, liver, gross {#item-40}
+![](../../images/hepatic_a042ab2e.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Grossly, there are areas of necrosis and collapse of liver lobules seen here as ill-defined areas that are pale yellow. Such necrosis occurs with hepatitis.
+## 41. Viral hepatitis, liver, gross {#item-41}
+![](../../images/hepatic_dcf70333.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+The necrosis and lobular collapse is seen here as areas of hemorrhage and irregular furrows and granularity on the cut surface of the liver.
+## 42. Viral hepatitis B, liver, low power microscopic {#item-42}
+![](../../images/hepatic_97f0cf5a.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Viral hepatitis leads to liver cell apoptosis. A mononuclear inflammatory cell infiltrate extends from portal areas and disrupts thelimiting plateof hepatocytes which are undergoing apoptosis, the so-called interface hepatitis of chronic active hepatitis. In this case, the hepatitis B surface antigen (HBsAg) and hepatitis B core antibody (HBcAb) were positive, but anti-HBs (seen with recovery) was negative. Presence of hepatitis B e antigen (HBeAg) is associated with an increased risk for hepatocellular carcinoma regardless of serum level of alanine aminotransferase (ALT).The severity of infection relates to the immune system's ability to clear the virus. If clearance is delayed, a chronic persistent hepatitis can occur. A poor response can lead to chronic active hepatitis with ongoing hepatocellular damages and liver remodeling, with consequences of cirrhosis and potentially hepatocellular carcinoma.Hepatitis B viral DNA can be measured by PCR. HBV DNA >2000 copies/mL along with an elevated alanine aminotransferase (ALT) suggests further workup and possible therapy is needed. Viral copies/mL above 10,000 suggest ongoing hepatitis with greater risk for carcinoma.
+Viral hepatitis leads to liver cell apoptosis. A mononuclear inflammatory cell infiltrate extends from portal areas and disrupts thelimiting plateof hepatocytes which are undergoing apoptosis, the so-called interface hepatitis of chronic active hepatitis. In this case, the hepatitis B surface antigen (HBsAg) and hepatitis B core antibody (HBcAb) were positive, but anti-HBs (seen with recovery) was negative. Presence of hepatitis B e antigen (HBeAg) is associated with an increased risk for hepatocellular carcinoma regardless of serum level of alanine aminotransferase (ALT).
+The severity of infection relates to the immune system's ability to clear the virus. If clearance is delayed, a chronic persistent hepatitis can occur. A poor response can lead to chronic active hepatitis with ongoing hepatocellular damages and liver remodeling, with consequences of cirrhosis and potentially hepatocellular carcinoma.
+Hepatitis B viral DNA can be measured by PCR. HBV DNA >2000 copies/mL along with an elevated alanine aminotransferase (ALT) suggests further workup and possible therapy is needed. Viral copies/mL above 10,000 suggest ongoing hepatitis with greater risk for carcinoma.
+Pegylated interferon alfa (PEG-IFN-a), entecavir (ETV), and tenofovir disoproxil fumarate (TDF) are the agents primarily used for treatment of chronic active hepatitis B, suppressing, but not clearing the virus. Interferons have antiviral, antiproliferative, and immunomodulatory effects. Entecavir is a guanosine analogue inhibitor of hepatitis B viral polymerase. Tenofovir is a nucleotide analogue reverse transcriptase and HBV polymerase inhibitor.
+## 43. Viral hepatitis B, liver, high power microscopic [IPX] {#item-43}
+![](../../images/hepatic_fe1dcae0.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Individual hepatocytes are affected by viral hepatitis. Viral hepatitis A rarely leads to signficant necrosis, but hepatitis B can result in a fulminant hepatitis with extensive necrosis. A large pink cell undergoing "ballooning degeneration" is seen below the right arrow. At a later stage, a dying hepatocyte is seen shrinking down to form an eosinophilic "councilman body" below the arrow on the left.
+## 44. Viral hepatitis C, liver, high power microscopic {#item-44}
+![](../../images/hepatic_4c9f8905.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This is a case of viral hepatitis C, which in half of cases leads to chronic liver disease. The extent of chronic hepatitis can be graded by the degree of activity (necrosis and inflammation) and staged by the degree of fibrosis. In this case, necrosis and inflammation are prominent, and there is some steatosis as well. Regardless of the grade or stage, the etiology of the hepatitis must be sought, for the treatment may depend upon knowing the cause, and chronic liver diseases of different etiologies may appear microscopically and grossly similar.
+## 45. Viral hepatitis C, liver, low power microscopic {#item-45}
+![](../../images/hepatic_35d6139c.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This is a case of viral hepatitis C which is at a high stage with extensivefibrosisand progression to macronodular cirrhosis, as evidenced by thelarge regenerative noduleat the center right. The screening laboratory test for this form of viral hepatitis is the hepatitis C antibody test. Hepatitis C accounts for most (but not all) cases formerly called "non-A, non-B hepatitis". In addition to this serologic test PCR and genotyping can be performed.Nucleic acid sequencing identifies of six common HCV types (1a,b-5) which have different clinical courses and responsiveness to alpha interferon therapy. Infection with HCV type 1b or 4 leads to more severe liver disease, faster progression to chronic hepatitis, and less responsiveness to interferon therapy. Type 1a, 2, 3, and 5 infections have a more favorable prognosis. Type 2 and 3 infections may be treated with shorter therapeutic regimens.
+Nucleic acid sequencing identifies of six common HCV types (1a,b-5) which have different clinical courses and responsiveness to alpha interferon therapy. Infection with HCV type 1b or 4 leads to more severe liver disease, faster progression to chronic hepatitis, and less responsiveness to interferon therapy. Type 1a, 2, 3, and 5 infections have a more favorable prognosis. Type 2 and 3 infections may be treated with shorter therapeutic regimens.
+## 46. Viral hepatitis with collapse, liver, Trichrome stain, microscopic {#item-46}
+![](../../images/hepatic_3e2a8162.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This trichrome stain demonstrates the collapse of the liver parenchyma with viral hepatitis. The blue-staining areas are the connective tissue of many portal tracts that have collapsed together.
+## 47. Chronic passive congestion (nutmeg liver), gross {#item-47}
+![](../../images/hepatic_4b0fba11.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Here is an example of a "nutmeg" liver seen with chronic passive congestion of the liver. Note the dark red congested regions that represent accumulation of RBC's in centrilobular regions.
+## 48. Chronic passive congestion, liver, microscopic {#item-48}
+![](../../images/hepatic_2669cc8d.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Microscopically, the nutmeg pattern results from passive congestion around thecentral veins, as seen here. Theportal areasare unaffected. This is usually due to a "right sided" heart failure.
+## 49. Centrilobular necrosis, liver, microscopic {#item-49}
+![](../../images/hepatic_dea996c7.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+If the passive congestion is pronounced, then there can be centrilobular necrosis, because the oxygenation in zone 3 of the hepatic lobule is not great. The light brown pigment seen here in the necrotic hepatocytes around the central vein is lipochrome.
+## 50. Chronic passive congestion with "cardiac cirrhosis", liver, microscopic {#item-50}
+![](../../images/hepatic_02fd54c8.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+If chronic hepatic passive congestion continues for a long time, a condition called "cardiac cirrhosis" may develop in which there is fibrosis bridging between central zonal regions, as shown below, so that the portal tracts appear to be in the center of the reorganized lobule. This process is best termed "cardiac sclerosis" because, unlike a true cirrhosis, there is minimal nodular regeneration.
+## 51. Infarction, liver, gross {#item-51}
+![](../../images/hepatic_48105ecf.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+At the right are seen severalinfarctsof the liver. Infarcts are uncommon because the liver has two blood supplies-portal venous system and hepatic arterial system. The infarcts seen here are yellow, with geographic borders and surrounding hyperemia. Hepatic infarction may occur with arteritis, hepatic vein thrombosis, and a variety of other causes.
+## 52. Necrosis with acetaminophen overdose, liver, microscopic {#item-52}
+![](../../images/hepatic_db04ff93.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+There is extensive hepatocyte necrosis seen here in a case of acetaminophen overdose. The hepatocytes at the right are dead, and those at the left are dying. This pattern can be seen with a variety of hepatotoxins. Acute liver failure leads to hepatic encephalopathy.
+Which of the following is most useful for treating acetaminophen overdose?AN-acetylcysteineBPrednisoneCCyclophosphamideCPegylated interferon
+AN-acetylcysteineBPrednisoneCCyclophosphamideCPegylated interferon
+BPrednisoneCCyclophosphamideCPegylated interferon
+CCyclophosphamideCPegylated interferon
+CPegylated interferon
+## 53. Dominant polycystic kidney disease with polycystic liver, gross [CT] {#item-53}
+![](../../images/hepatic_55c68313.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Numerous cysts appear in this liver from a patient with dominant polycystic kidney disease (DPKD). Such cases occur in adults and manifest with renal failure beginning in middle age. Sometimes the liver (as seen here) can be affected as well by polycystic change. Less commonly the pancreas is involved. These patients with DPKD can also have berry aneurysms in the cerebral arteries.
+## 54. Primary biliary cholangitis, microscopic {#item-54}
+![](../../images/hepatic_279193c9.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This is a case of primary biliary cholangitis, a rare autoimmune disease (mostly of middle-aged women) that is characterized by destruction of bile ductules within the triads of the liver. Seen here at medium power areintense mononuclear inflammatory infiltratesin portal tracts with loss of bile ductules. The inflammatory infiltrate can have granulomatous features as well.
+## 55. Anti-mitochondrial antibody, immunofluorescence microscopy {#item-55}
+![](../../images/hepatic_dc65c410.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This immunofluorescence pattern is positive for anti-mitochondrial antibody (AMA) which has an association with primary biliary cholangitis. The tissue substrate for this test is renal parenchyma, and the tubule cells have lots of mitochondria, which stain bright green.
+## 56. Extrahepatic biliary atresia, liver, gross {#item-56}
+![](../../images/hepatic_db99abc2.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This 3 month old child died with extrahepatic biliary atresia, a disease in which there is inflammation with stricture of hepatic or common bile ducts. This leads to marked cholestasis with intrahepatic bile duct proliferation, fibrosis, and cirrhosis. This liver was rock hard. The dark green color comes from formalin acting on bile pigments in the liver from marked cholestasis, turning bilrubin to biliverdin.
+## 57. Extrahepatic biliary atresia, liver, microscopic {#item-57}
+![](../../images/hepatic_0a2dd2d7.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Microscopically, extrahepatic biliary atresia leads to this appearance in the liver, with numerous brown-greenbile plugs, bile duct proliferation (seen at lower center), and extensive fibrosis. If a large enough bile duct can be found to anastomose and provide bile drainage, then surgery can be curative.
+## 58. Neonatal giant cell hepatitis, microscopic {#item-58}
+![](../../images/hepatic_78c97708.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Seen here is the major differential diagnosis of biliary atresia: this is neonatal giant cell hepatitis. There is lobular disarray with focalhepatocyte necrosis, along withgiant cell transformation, lymphocytic infiltration, Kupffer cell hyperplasia, andcholestasis. Neonatal hepatitis may be idiopathic or of viral origin. Many neonates recover in a couple of months.
+## 59. Alpha-1-antitrypsin deficiency, liver, PAS stain, microscopic {#item-59}
+![](../../images/hepatic_1246de63.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+The periportalred hyaline globulesseen here with periodic acid-Schiff (PAS) stain are characteristic for alpha-1-antitrypsin (AAT) deficiency. More persons with AAT deficiency are likely to develop chronic obstructive pulmonary disease with panlobular emphysema. The globules are collections of alpha-1-antitrypsin not being excreted from hepatocytes. This may eventually lead to chronic hepatitis and cirrhosis. Liver disease is more likely to occur in children with AAT deficiency, while lung disease occurs in adults.
+The gene for AAT is on chromosome 14. There are over 100 known mutations. The normal allele is designated PiM, and the two most common abnormal alleles are designated PiS and PiZ. Heterozygotes PiMS and PiMZ may on occasion develop pulmonary and/or liver disease, but less often severe. The homozygotes PiSS and PiZZ, and the heterozygote PiSZ, are more likely to develop significant COPD and/or liver disease. The persons most likely to develop severe AAT deficiency and its complications have PiZZ. About 1 in 10 persons of European ancestry has one of the 5 abnormal phenotypes (the normal is PiMM).
+## 60. Sclerosing cholangitis, liver, Trichrome stain, microscopic {#item-60}
+![](../../images/hepatic_1ac4b504.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+This trichrome stain of the liver demonstrates extensive portal tract fibrosis with sclerosing cholangitis. The hepatocytes are normal.
+## 61. Sclerosing cholangitis, liver, microscopic {#item-61}
+![](../../images/hepatic_17c04e9b.jpg)
+
+![](../../images/hepatic_d5033905.gif)
+Microscopically, this bile duct in a case of sclerosing cholangitis is surrounded by marked collagenous connective tissue deposition.
