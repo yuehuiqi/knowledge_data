@@ -1,0 +1,14 @@
+# 可选依赖：只在需要时安装
+pillow
+pytesseract
+requests
+
+# 本地模型回退（如要使用 BLIP）
+transformers
+torch
+accelerate
+
+# DashScope / OpenAI 兼容 SDK
+openai
+
+# 如果你使用 Windows 并且需要 pytesseract，请先安装 Tesseract OCR 引擎并将其加入 PATH。
